@@ -1,0 +1,27 @@
+{
+  "payload": {
+    "schema": 1,
+    "project_id": "product-incubator",
+    "channel": "stable",
+    "version": "4.1.8.65",
+    "published_at": "2026-10-21T12:55:48Z",
+    "expires_at": "2026-11-20T12:55:48Z",
+    "minimum_app_version": "4.1.8.30",
+    "schema_from_min": 1,
+    "schema_from_max": 1,
+    "schema_to": 1,
+    "arch": "x64",
+    "min_windows_build": 10240,
+    "notes": "V4.1.8.65：业务状态恢复为本地SQLite唯一权威，取消飞书双向同步；保留受约束机会研究Agent与运行状态一致性修复",
+    "installer": {
+      "url": "https://github.com/zevison/ProductIncubator-Download/releases/download/v4.1.8.65/AIProductStudio_Setup_4.1.8.65.exe",
+      "filename": "AIProductStudio_Setup_4.1.8.65.exe",
+      "size": 232791605,
+      "sha256": "66491331b79d2fb879310505a145d9b780fc5efe7aee081cb3a628feba785cdf"
+    }
+  },
+  "signature": {
+    "algorithm": "RS256",
+    "value": "Mlp0JpkB1Z0FZe3sYrUdVjCr0rxH+YOL2zRpu47OTv4/MxGqR1SjW6MK9WD18L1WU58BfDnfHQVR/LQDPrmtSmsYus0/EGPfH/yQKbpmR+eq//59rtaoOFLGup1AVsmgOyQUuQoe3iYFyT/jxoXcLRzP1ICL8Uso7Y891KnD4qGWt/MWX46LLWijA2eQATYmc6FjLjuvevJq5Nl4DhYCQNEn+fnZeyok8LI6DfsOm6G1W6goRXKwuoBD40UlNOQNdh1xrFlvdVmUWzIhkw6U/F6skSMe1hBePnyHqZ8Cmtwsoetuh16eYjecytu86vXLa5NNvrD8snTVAYIH6at3+Q=="
+  }
+}
