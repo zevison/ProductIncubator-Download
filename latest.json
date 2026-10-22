@@ -3,25 +3,25 @@
     "schema": 1,
     "project_id": "product-incubator",
     "channel": "stable",
-    "version": "4.1.8.65",
-    "published_at": "2026-10-21T12:55:48Z",
-    "expires_at": "2026-11-20T12:55:48Z",
+    "version": "4.1.8.66",
+    "published_at": "2026-10-22T02:07:19Z",
+    "expires_at": "2026-11-21T02:07:19Z",
     "minimum_app_version": "4.1.8.30",
     "schema_from_min": 1,
     "schema_from_max": 1,
     "schema_to": 1,
     "arch": "x64",
     "min_windows_build": 10240,
-    "notes": "V4.1.8.65：业务状态恢复为本地SQLite唯一权威，取消飞书双向同步；保留受约束机会研究Agent与运行状态一致性修复",
+    "notes": "V4.1.8.66：修复 CLI 路径 CFG 不读取参数设置与未安装网络请求守卫的缺陷；业务状态保持本地 SQLite 唯一权威，零成本更新通道不变。",
     "installer": {
-      "url": "https://github.com/zevison/ProductIncubator-Download/releases/download/v4.1.8.65/AIProductStudio_Setup_4.1.8.65.exe",
-      "filename": "AIProductStudio_Setup_4.1.8.65.exe",
-      "size": 232791605,
-      "sha256": "66491331b79d2fb879310505a145d9b780fc5efe7aee081cb3a628feba785cdf"
+      "url": "https://github.com/zevison/ProductIncubator-Download/releases/download/v4.1.8.66/AIProductStudio_Setup_4.1.8.66.exe",
+      "filename": "AIProductStudio_Setup_4.1.8.66.exe",
+      "size": 232792780,
+      "sha256": "aa6cf0080042ff82148e0afa016c493413b72cf3b920ae59dda76a5f5b47ba82"
     }
   },
   "signature": {
     "algorithm": "RS256",
-    "value": "Mlp0JpkB1Z0FZe3sYrUdVjCr0rxH+YOL2zRpu47OTv4/MxGqR1SjW6MK9WD18L1WU58BfDnfHQVR/LQDPrmtSmsYus0/EGPfH/yQKbpmR+eq//59rtaoOFLGup1AVsmgOyQUuQoe3iYFyT/jxoXcLRzP1ICL8Uso7Y891KnD4qGWt/MWX46LLWijA2eQATYmc6FjLjuvevJq5Nl4DhYCQNEn+fnZeyok8LI6DfsOm6G1W6goRXKwuoBD40UlNOQNdh1xrFlvdVmUWzIhkw6U/F6skSMe1hBePnyHqZ8Cmtwsoetuh16eYjecytu86vXLa5NNvrD8snTVAYIH6at3+Q=="
+    "value": "oiRuhMf+qVgmfoGmNL1gBwEgvIqw5e9Era+y6coFOr9UyNobZGF4CrJRK8Mb/PEB/Of+6w2aMCrw32hRba/qnlVw2xHyNDjYxpOAQiKA6D/z/6TxI8noxAsQkZdkbm89vLRrbA9btC4Tvz0Q12hc/xQNyTLPnlE24apMy1T2mVs7jq5Jvnb9P9Zv0cPiFzQmGg5Y+mysUA4Qga58Brmf9bWomOq9b7nCWSY9n6+Qynlj9mSVPXfC3W5bNdB4xnhqSHFicvybHlBhRqQ2a5J7ZqrxKgP/RSUrga2UoTmwpdc1mSyg4ohuNlZx1oLjrv+wl7Pw/KIaYnIkwSjXm2pD3Q=="
   }
 }
