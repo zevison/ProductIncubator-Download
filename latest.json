@@ -4,8 +4,8 @@
     "project_id": "product-incubator",
     "channel": "stable",
     "version": "4.1.8.66",
-    "published_at": "2026-10-22T02:07:19Z",
-    "expires_at": "2026-11-21T02:07:19Z",
+    "published_at": "2026-10-22T04:11:20Z",
+    "expires_at": "2026-11-21T04:11:20Z",
     "minimum_app_version": "4.1.8.30",
     "schema_from_min": 1,
     "schema_from_max": 1,
@@ -16,12 +16,12 @@
     "installer": {
       "url": "https://github.com/zevison/ProductIncubator-Download/releases/download/v4.1.8.66/AIProductStudio_Setup_4.1.8.66.exe",
       "filename": "AIProductStudio_Setup_4.1.8.66.exe",
-      "size": 232792780,
-      "sha256": "aa6cf0080042ff82148e0afa016c493413b72cf3b920ae59dda76a5f5b47ba82"
+      "size": 232791493,
+      "sha256": "cf6f19fe2ec4cfbc566ef4e244125ba604a7d98e8b43ae713b0a2188faf315f0"
     }
   },
   "signature": {
     "algorithm": "RS256",
-    "value": "oiRuhMf+qVgmfoGmNL1gBwEgvIqw5e9Era+y6coFOr9UyNobZGF4CrJRK8Mb/PEB/Of+6w2aMCrw32hRba/qnlVw2xHyNDjYxpOAQiKA6D/z/6TxI8noxAsQkZdkbm89vLRrbA9btC4Tvz0Q12hc/xQNyTLPnlE24apMy1T2mVs7jq5Jvnb9P9Zv0cPiFzQmGg5Y+mysUA4Qga58Brmf9bWomOq9b7nCWSY9n6+Qynlj9mSVPXfC3W5bNdB4xnhqSHFicvybHlBhRqQ2a5J7ZqrxKgP/RSUrga2UoTmwpdc1mSyg4ohuNlZx1oLjrv+wl7Pw/KIaYnIkwSjXm2pD3Q=="
+    "value": "RjxpK0R3evspeuCvAf1FQy+IrxssT5Hb9bkkOks65kHSq53SDBuFtI0H1ri7YrnOKEcS/Cp+ETN3hnnsUzwc+9TDMNIL0+OYJfvXjnxScklPABRJuQeRMrcUVLDGsE06p8snrn8lglbu06ehun9OnYgAWt4qGn65+zmMKkjCJS52M+cLGQV2ZEdNP0BhmO1270YXR0jkNeM5I05RD/oykYlmy++dBgirmCgj9xbgB1wT+HWdBXtb6WHcLxilFx4QQiQCcDqEanfR1OGo2e3GwC69q3ZUL1BXem1fSUEBlWTY/cmmODjvuaPNTizEFP2lvYxPaAJ3BcwAVeb464H/Jg=="
   }
 }
